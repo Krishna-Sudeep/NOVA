@@ -1,0 +1,3 @@
+<resources>
+    <string name="a11y_desc">Lets Nova press the Send button in WhatsApp after you confirm a message. It only watches WhatsApp.</string>
+</resources>
